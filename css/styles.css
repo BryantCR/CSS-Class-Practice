@@ -100,3 +100,7 @@ fieldset > span{
     cursor: pointer;
     background-color: #D9534F;
 }
+
+/*input.formElement#userName{
+    width: 500px;
+}*/
